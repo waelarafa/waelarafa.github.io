@@ -42,35 +42,35 @@
 					"image":"image2.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"]
+					"type" : ["Lunch"]
 				},{
 
 					"titre":"Pizza",
 					"image":"image2.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"]
+					"type" : ["Breakfast"]
 				},{
 
 					"titre":"Pizza",
 					"image":"image2.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"]
+					"type" : ["Lunch"]
 				},{
 
 					"titre":"Pizza",
 					"image":"image2.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"]
+					"type" : ["Beverages"]
 				},{
 
 					"titre":"Pizza",
 					"image":"image2.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"]
+					"type" : ["Beverages"]
 				}, {
 
 				"titre":"model",
