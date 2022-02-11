@@ -3,7 +3,7 @@
 
 
 	"id":"2",
-	"typesavailable":["Breakfast","Beverages"],
+	"typesavailable":["Breakfast","Beverages","Lunch"],
 
 			"plats":[
 
@@ -13,14 +13,14 @@
 					"image":"image1.png",
 					"model3D":"wael",
 					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"]
+					"type" : ["Breakfast","Beverages","Lunch"]
 				},{
 
 					"titre":"Sandwich",
 					"image":"image1.png",
 					"model3D":"wael",
 					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"]
+					"type" : ["Breakfast","Beverages","Lunch"]
 
 				},{
 
