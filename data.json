@@ -37,8 +37,8 @@
 					"type" : ["Breakfast","Beverages"]
 				},{
 
-					"titre":"Hamburger",
-					"image":"hamburger.jpeg",
+					"titre":"Pizza",
+					"image":"pizza.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages"]
