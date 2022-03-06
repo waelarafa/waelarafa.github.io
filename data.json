@@ -36,13 +36,7 @@
 					"model3D":"louay",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages"]
-				},
-
-				 {"titre":"Sushi",
-					"image":"sushi.jpeg",
-					"model3D":"louay",
-					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages"] }
+				}
 
 			]
 
