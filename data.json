@@ -9,75 +9,40 @@
 
 				{
 
-					"titre":"Sandwich",
-					"image":"image1.png",
-					"model3D":"wael",
+					"titre":"Hamburger",
+					"image":"hamburger.jpeg",
+					"model3D":"louay",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages","Lunch"]
-				},{
-
-					"titre":"Sandwich",
-					"image":"image1.png",
-					"model3D":"wael",
-					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages","Lunch"]
-
 				},{
 
 					"titre":"Pizza",
-					"image":"image2.jpg",
+					"image":"pizza.jpg",
+					"model3D":"louay",
+					"video":"pizza.mp4",
+					"type" : ["Breakfast","Beverages","Lunch"]
+
+				},{
+
+					"titre":"Salade",
+					"image":"salade.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages"]
 				},{
 
-					"titre":"Pizza",
-					"image":"image2.jpg",
+					"titre":"Sushi",
+					"image":"sushi.jpeg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages"]
-				},{
+				},
 
-					"titre":"Pizza",
-					"image":"image2.jpg",
+				 {"titre":"Sushi",
+					"image":"sushi.jpeg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
-					"type" : ["Lunch"]
-				},{
-
-					"titre":"Pizza",
-					"image":"image2.jpg",
-					"model3D":"louay",
-					"video":"pizza.mp4",
-					"type" : ["Breakfast"]
-				},{
-
-					"titre":"Pizza",
-					"image":"image2.jpg",
-					"model3D":"louay",
-					"video":"pizza.mp4",
-					"type" : ["Lunch"]
-				},{
-
-					"titre":"Pizza",
-					"image":"image2.jpg",
-					"model3D":"louay",
-					"video":"pizza.mp4",
-					"type" : ["Beverages"]
-				},{
-
-					"titre":"Pizza",
-					"image":"image2.jpg",
-					"model3D":"louay",
-					"video":"pizza.mp4",
-					"type" : ["Beverages"]
-				}, {
-
-				"titre":"model",
-				"image":"image2.jpg",
-				"model3D":"TriLibSampleModel.obj",
-				"video":"pizza.mp4",
-					"type" : ["Breakfast"]}
+					"type" : ["Breakfast","Beverages"] }
 
 			]
 
