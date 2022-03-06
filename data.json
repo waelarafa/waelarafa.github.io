@@ -9,30 +9,30 @@
 
 				{
 
-					"titre":"Hamburger",
-					"image":"hamburger.jpeg",
-					"model3D":"louay",
+					"titre":"Sandwich",
+					"image":"image1.png",
+					"model3D":"wael",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages","Lunch"]
+				},{
+
+					"titre":"Sandwich",
+					"image":"image1.png",
+					"model3D":"wael",
+					"video":"pizza.mp4",
+					"type" : ["Breakfast","Beverages","Lunch"]
+
 				},{
 
 					"titre":"Pizza",
-					"image":"pizza.jpg",
-					"model3D":"louay",
-					"video":"pizza.mp4",
-					"type" : ["Breakfast","Beverages","Lunch"]
-
-				},{
-
-					"titre":"Salade",
-					"image":"salade.jpg",
+					"image":"image2.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages"]
 				},{
 
-					"titre":"Sushi",
-					"image":"sushi.jpeg",
+					"titre":"Pizza",
+					"image":"image2.jpg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages"]
@@ -77,8 +77,7 @@
 				"image":"image2.jpg",
 				"model3D":"TriLibSampleModel.obj",
 				"video":"pizza.mp4",
-					"type" : ["Breakfast"] 
-				}
+					"type" : ["Breakfast"]}
 
 			]
 
