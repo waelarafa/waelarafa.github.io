@@ -16,7 +16,7 @@
 				},{
 
 					"titre":"Salade",
-					"image":"salade.jpg",
+					"image":"",
 					"model3D":"wael",
 					"video":"pizza.mp4",
 					"type" : ["Breakfast","Beverages","Lunch"]
@@ -86,7 +86,7 @@
 					"type" : ["Breakfast","Beverages"]
 				},{
 
-					"titre":"Hamburger",
+					"titre":"pizza",
 					"image":"sushi - Copie (9).jpeg",
 					"model3D":"louay",
 					"video":"pizza.mp4",
